@@ -1,15 +1,31 @@
-#################################################
-# ACTIVE DIRECTORY DOMAIN SERVER VM IMAGE
-#################################################
----------------------------------------------------------
-Environment: vmware, windows server 2019
 
-user: administrator
-password: HeliosRising1!
 
-domain_name: VELIOS19-1.com
-netbios: VELIOS19-1
+----
+# Powershell automation scripts for windows server and Domain pc's
 
+## This repo contains a set of powerfull automation scripts I have found useful in production enterprise environments. 
+
+
+
+
+<br>
+<br>
+
+----
+----
+# Active Directory info:
+
+
+<br>
+
+### Environment: vmware, windows server 2019
+
+#### user: administrator
+#### password: Vlabs1234
+#### domain_name: VELIOS19-1.com
+#### netbios: VELIOS19-1
+
+<br><br>
 
 ---------------------------------------------------------
 # Virtual Home Lab Objectives:
