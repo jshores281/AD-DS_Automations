@@ -33,7 +33,7 @@
 
 - make a domain controller (windows server 2019)
 domain naming conventions:
-ex. HADC1
+ex. DCHQ-1
 
 
 - create OU's for 3 users and 3 devices
@@ -42,7 +42,7 @@ ex. HADC1
 
 - add 3 vms to domain. 2 win10, 1 win11
 
-
+- test automation powershell scripts against AD and Domain VM-PC's
 
 - create MDT depolyment server
 - - create win10/11 deploy image
