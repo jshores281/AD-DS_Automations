@@ -21,7 +21,7 @@
 ### Environment: vmware, windows server 2019
 
 #### user: administrator
-#### pass: Vlabs123
+#### pass: Vlabs1234
 #### domain_name: VELIOS19-1.com
 #### netbios: VELIOS19-1
 
